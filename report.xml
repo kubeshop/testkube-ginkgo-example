@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <testsuites tests="2" disabled="0" errors="0" failures="0" time="0.000142083">
+      <testsuite name="TestkubeGinkgoExample Suite" package="/Users/exu/code/kube/testkube-ginkgo-example/books" tests="2" disabled="0" skipped="0" errors="0" failures="0" time="0.000142083" timestamp="2022-06-14T14:07:19">
+          <properties>
+              <property name="SuiteSucceeded" value="true"></property>
+              <property name="SuiteHasProgrammaticFocus" value="false"></property>
+              <property name="SpecialSuiteFailureReason" value=""></property>
+              <property name="SuiteLabels" value="[]"></property>
+              <property name="RandomSeed" value="1655208438"></property>
+              <property name="RandomizeAllSpecs" value="false"></property>
+              <property name="LabelFilter" value=""></property>
+              <property name="FocusStrings" value=""></property>
+              <property name="SkipStrings" value=""></property>
+              <property name="FocusFiles" value=""></property>
+              <property name="SkipFiles" value=""></property>
+              <property name="FailOnPending" value="false"></property>
+              <property name="FailFast" value="false"></property>
+              <property name="FlakeAttempts" value="0"></property>
+              <property name="EmitSpecProgress" value="false"></property>
+              <property name="DryRun" value="false"></property>
+              <property name="ParallelTotal" value="1"></property>
+              <property name="OutputInterceptorMode" value=""></property>
+          </properties>
+          <testcase name="[It] Books Categorizing books with more than 300 pages should be a novel" classname="TestkubeGinkgoExample Suite" status="passed" time="4.5208e-05"></testcase>
+          <testcase name="[It] Books Categorizing books with fewer than 300 pages should be a short story" classname="TestkubeGinkgoExample Suite" status="passed" time="6.833e-06"></testcase>
+      </testsuite>
+  </testsuites>
